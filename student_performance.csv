@@ -1,0 +1,22 @@
+
+Student_ID,Name,Age,Gender,Department,CGPA,Attendance,Backlogs,Placement_Status,Salary
+101,Aarav,20,Male,CSE,8.5,92,0,Placed,650000
+102,Riya,21,Female,IT,9.1,95,0,Placed,750000
+103,Rohan,20,Male,ECE,7.2,78,1,Not Placed,
+104,Ananya,22,Female,CSE,8.8,88,0,Placed,700000
+105,Karan,21,Male,IT,,65,2,Not Placed,
+106,Meera,20,Female,CSE,9.3,98,0,Placed,850000
+107,Arjun,23,Male,MECH,6.5,60,3,Not Placed,
+108,Simran,21,Female,IT,8.0,,0,Placed,550000
+109,Vikram,22,Male,ECE,7.8,82,1,Placed,500000
+110,Priya,20,Female,CSE,9.0,96,0,Placed,780000
+111,Aarav,20,Male,CSE,8.5,92,0,Placed,650000
+112,Rahul,21,Male,IT,7.0,70,2,Not Placed,
+113,Neha,22,Female,CSE,8.7,91,0,Placed,720000
+114,Aditya,20,Male,ECE,7.5,75,1,Not Placed,
+115,Ishita,21,Female,IT,9.2,97,0,Placed,820000
+116,Dev,22,Male,CSE,45,89,0,Placed,9000000
+117,Kabir,20,Male,IT,7.9,85,1,Placed,600000
+118,Sneha,21,Female,CSE,,93,0,Placed,760000
+119,Manav,22,Male,MECH,6.8,55,3,Not Placed,
+120,Tanya,20,Female,ECE,8.4,90,0,Placed,680000
