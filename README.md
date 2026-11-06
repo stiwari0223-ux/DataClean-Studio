@@ -172,7 +172,3 @@ Contributions, suggestions, and improvements are welcome.
 **Sudhanshu Tiwari**
 
 B.Tech Computer Science and Engineering
-
-## License
-
-This project is open-source and available under the MIT License.
